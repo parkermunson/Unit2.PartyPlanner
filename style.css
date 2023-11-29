@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+}
+
+h3 {
+    text-transform: capitalize;
+}
+
+li {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding: 30px;
+}
